@@ -92,7 +92,7 @@ with st.container():
     col1, col2 = st.columns([2, 3])
 
     with col1:
-        with st.form("prediction_form", border=False):
+        with st.form("prediction_form"):
             st.subheader("📝 Menu Information")
 
             restaurant_id = st.text_input("Restaurant ID", "")
