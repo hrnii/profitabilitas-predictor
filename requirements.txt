@@ -1,9 +1,9 @@
 streamlit==1.29.0
-pandas==1.5.3  # Downgrade untuk kompatibilitas
-scikit-learn==1.2.2  # Versi yang lebih stabil
-xgboost==1.7.6  # Versi sebelum 2.0.0
-joblib==1.2.0  # Versi yang kompatibel
-matplotlib==3.6.3  # Versi yang lebih stabil
-seaborn==0.12.2
+pandas==2.2.2  # Downgrade untuk kompatibilitas
+scikit-learn==1.6.1  # Versi yang lebih stabil
+xgboost==3.0.3  # Versi sebelum 2.0.0
+joblib==1.4.2  # Versi yang kompatibel
+matplotlib==3.9.2  # Versi yang lebih stabil
+seaborn==0.13.2
 Pillow==9.5.0  # Versi yang lebih stabil
 pyarrow==14.0.1
