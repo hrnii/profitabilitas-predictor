@@ -1,9 +1,9 @@
 streamlit==1.29.0
-pandas==
-scikit-learn==
-xgboost==
-joblib==
-matplotlib==
-seaborn==
-Pillow==
-pyarrow==
+pandas==2.2.2
+scikit-learn==1.7.1
+xgboost==3.0.3
+joblib==1.4.2
+matplotlib==3.10.5
+seaborn==0.13.2
+Pillow==11.3.0
+pyarrow==16.1.0
