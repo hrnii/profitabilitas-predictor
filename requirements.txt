@@ -6,3 +6,4 @@ joblib==1.2.0  # Versi yang kompatibel
 matplotlib==3.6.3  # Versi yang lebih stabil
 seaborn==0.12.2
 Pillow==9.5.0  # Versi yang lebih stabil
+pyarrow==14.0.1
