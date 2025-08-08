@@ -1,9 +1,0 @@
-streamlit==1.34.0
-pandas
-scikit-learn
-xgboost
-joblib
-matplotlib
-seaborn
-Pillow
-pyarrow
